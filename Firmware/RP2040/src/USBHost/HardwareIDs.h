@@ -21,7 +21,7 @@ static const HardwareID DINPUT_IDS[] =
     {0x046D, 0xC218}, // Logitech RumblePad 2
     {0x0810, 0x0001}, // Generic Amazon Gamepad
     {0x044F, 0xB653}, // Thrustmaster RGT
-    {0x0EB7, 0x0004}, // Fanatec CSW 2.5 (Compatiblity Mode)
+    {0x0EB7, 0x0020}, // Fanatec Compatiblity Mode
     {0x046D, 0xC266} // Logitech G923
 };
 
